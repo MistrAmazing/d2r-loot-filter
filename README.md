@@ -1,3 +1,18 @@
+# Color me pretty!!
+This fork adds WoW rarity colors for runes in your inventory.
+- El - Ort = White (#dcdcdc)
+- Thul - Shael = Green (#1eff00)
+- Dol - Lem = Blue (#0070dd)
+- Pul - Gul = Purple (#a335ee)
+- Vex - Zod - Orange (#ff8000)
+
+![runes](https://cdn.discordapp.com/attachments/823089369362858025/969330261064044544/unknown.png)
+
+
+![runeexample](https://cdn.discordapp.com/attachments/866433069489717279/969142470015344640/unknown.png)
+
+
+
 # A mediocre purely mod-based D2:R loot filter
 
 This is a mod for D2R that makes it easier to quickly discern which items you would want to pick up, essentially implementing a pseudo loot filter. Items cannot be filtered however you can edit the localization of text for every 'base' item. This means you can prevent all "Giant Axe" from cluttering the ground by setting an empty name but cannot filter normal <> unique. Also some names like greater health potion can be reduded to single characters. This will be extremely helpful for trav runs. You can also swap the text out so that it is larger or like in PD2 S1 make some items a large box to click. There are two choices, one hides no equipable items and the other is strict.
